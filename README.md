@@ -1,1 +1,6 @@
 # proyecto-final
+        WATTPAD
+Nosotras escogimos la platforma de Wattpad porque  puedes descubrir millones de libros electrónicos en cada género que hay y agregarlos a tu lista de lectura. No solo eso, sino que también puedes seguir a tus escritores favoritos y recibir notificaciones cada vez que publiquen algo. 
+Wattpad es  una biblioteca de libros gratuitos que funciona como una red social ya que permite seguir y escribir de manera constante a los cientos de autores que suben sus obras a esta plataforma.
+Es muy descargada en celulares  a nivel mundial es una plataforma o app muy famosa para las que leen hasta hay adaptaciones  de los libros a peliculas por ejemplo  el libro A TRAVES DE MI VENTANA ha sido adaptada a una pelicula que va a salir el 4 de Febrero. asi como esta hay mas libro que van o estan siendo adaptados a peliculas.
+Elegimos esta app para  que nuestras compañera  que no an ultilizado esta app puedan utilizarla y decubrir un mundo de muchas experiencias a base de lectura.
