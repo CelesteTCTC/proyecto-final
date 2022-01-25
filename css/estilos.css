@@ -1,0 +1,9 @@
+.gradient-custom {
+  background-image: url(https://c.tenor.com/8fKptjbLBmMAAAAC/anime-cute.gif) ;
+}
+.navbar-light .navbar-brand {
+  color: rgba(114, 44, 73, 0.9);
+}
+.bg-dark {
+  background-color: #412757!important;
+}
