@@ -11,9 +11,9 @@
 .continer{
     width:50px;
     height:50px;
-    border: 2px solid rgb(32, 17, 70);
+    border: 1px solid rgb(32, 17, 70);
     margin: 2px;
-    box-shadow: 2px 2px 3px 2px rgb(31, 27, 27);
+   
 }
 
 .busqueda{
