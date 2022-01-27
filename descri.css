@@ -1,0 +1,11 @@
+#principal{
+    background-color: rgb(150, 83, 212);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#buscar{
+    background-color: violet;
+    display: flex;
+    justify-content: space-between;
+}
